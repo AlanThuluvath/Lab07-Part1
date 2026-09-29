@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="lab07 task 2" content="Array of days, in English and French">
+    <meta name="lab07 task 2" content="Php File with Array of days, in English and French">
     <title>Days Array</title>
 
 </head>
